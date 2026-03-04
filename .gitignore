@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# VS Code settings
+.vscode/
+
+# PDF files
+*.pdf
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
